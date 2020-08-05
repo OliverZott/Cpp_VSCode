@@ -6,7 +6,7 @@
 
 ## Git-Shit
 
-- https://www.youtube.com/watch?v=Fk12ELJ9Bww
+- https://www.youtube.com/watch?v=Fk12ELJ9Bww 
 
 ## VSCode Update
 https://code.visualstudio.com/updates/v1_46#_add-remote-from-github 
